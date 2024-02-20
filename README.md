@@ -1,36 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yurii Koval</h1>
+<h3 align="center">Student, aspiring programmer, hoping to work on video games or embedded systems</h3>
 
-<!--
-**ykoval201/ykoval201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykoval201" alt="ykoval201" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java, Arduino**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **ykoval201@gmail.com**
 
-<h1>Hello. I'm Yurii.</h1>
-<h4>I currently Study Computer Science at UIC  | Write to me using: <a href="mailto:ykoval201@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
-<hr>
-<h2>📝 Statistics: </h2>
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; – <a href='https://github.com/ykoval201/ykoval201'>ykoval201</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;– <a href='https://github.com/ykoval201/Priority-Queue'>Priority Queue</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; – <a href='https://github.com/ykoval201/24-Game'>24 Game</a></h6> 
-    </td>
-    <td valign="top">
-      <h3>My stack: </h3>
-      <h6>📒&emsp;<a href="https://github.com/ykoval201?tab=repositories&q=&type=&language=C">C</a></h6>
-      <h6>📗&emsp;<a href="https://github.com/ykoval201?tab=repositories&q=&type=&language=c++">C++</a></h6>
-      <h6>📘&emsp;<a href="https://github.com/ykoval201?tab=repositories&q=&type=&language=JavaScript">JavaScript</a></h6>
-      </td>
-  </tr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ykoval201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ykoval201" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ykoval201&show_icons=true&locale=en&layout=compact" alt="ykoval201" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ykoval201&show_icons=true&locale=en" alt="ykoval201" /></p>
+
