@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yurii Koval</h1>
-<h3 align="center">Student, aspiring programmer, hoping to work on video games or embedded systems</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykoval201" alt="ykoval201" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Arduino**
+- 🌱 I’m currently learning **Python, SQL, Spark, Airflow, Kafka**
 
 - 📫 How to reach me **ykoval201@gmail.com**
 
