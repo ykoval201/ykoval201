@@ -55,10 +55,14 @@ Building scalable data pipelines and real-time data systems
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ykoval201&show_icons=true&theme=default" />
-</p>
+## Tech Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykoval201&layout=compact" />
-</p>
+Python • SQL • PySpark • Apache Spark • Kafka • Airflow • Docker • PostgreSQL • Git
+
+## Featured Projects
+
+### Real-Time Near Earth Object Analytics Pipeline
+End-to-end streaming pipeline using Kafka, PySpark, Airflow, and Docker to process simulated asteroid detection events and classify potentially hazardous objects.
+
+### Chess Tournament Management System
+Backend application for managing chess tournaments, players, and games using Python, FastAPI, PostgreSQL, Docker, and Pydantic.
