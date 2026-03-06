@@ -16,27 +16,6 @@ Building scalable data pipelines and real-time data systems
 
 ---
 
-### 🚀 Projects
-
-**Real-Time Near Earth Object Monitoring Pipeline**
-
-End-to-end streaming data pipeline that:
-
-- Streams simulated asteroid detection events
-- Processes data using **PySpark**
-- Uses **Kafka** for event streaming
-- Uses **Airflow** for pipeline orchestration
-- Runs in **Docker simulated cluster environment**
-
-Outputs:
-
-- Potentially hazardous objects
-- Interesting objects based on properties
-- Object classification
-- Various Metrics about near-earths objects
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
